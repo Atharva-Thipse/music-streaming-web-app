@@ -16,4 +16,4 @@ powershell terminal 1: cd music-streaming-app --> npm run serve (to run Vue.js s
 
 powershell terminal 2: (to run app.py)
 
-make sure to install node_modules by running "npm install".
+make sure to install node_modules by running "npm install" cmd.
